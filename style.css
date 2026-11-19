@@ -3,11 +3,11 @@
   justify-content: center;
   align-items: center;
   justify-content: space-between;
-  background-color: 222;
+  background-color: #222;
   padding: 20px 40px;
 }
 .header .logo {
-  color: e74c3c;
+  color: #e74c3c;
   font-size: 24px;
   font-weight: bold;
 }
@@ -25,12 +25,12 @@ nav li a {
   font-size: 16px;
 }
 nav li a:hover {
-  color: e74c3c;
+  color: #e74c3c;
 }
 
 .join-btn {
   border: none;
-  background-color: e74c3c;
+  background-color: #e74c3c;
   color: white;
   padding: 12px 20px;
   border-radius: 15px;
